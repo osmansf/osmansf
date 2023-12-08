@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @osmansf
 - 👀 I’m interested in computer programming, swimming, traveling
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me skype:osmanyilmazco , 
 
 <!---
